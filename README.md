@@ -1,0 +1,2 @@
+# godemo
+go build demo
